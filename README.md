@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teosimple
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning frontend
+- 👀 I’m interested in front-end
+- 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on frontend job
 - 📫 How to reach me ...
 
